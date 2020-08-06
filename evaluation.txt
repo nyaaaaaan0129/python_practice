@@ -1,0 +1,3 @@
+[Takanori Suzuki] total:269, evaluation: Excellent!, average: 89.66666666666667
+[Takayuki Shimizukawa] total:256, evaluation: Excellent!, average: 85.33333333333333
+[Mitsuki Sugiya] total:231, evaluation: Good!, average: 77.0
