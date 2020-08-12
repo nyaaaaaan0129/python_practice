@@ -1,3 +1,5 @@
+from pybot_eto import eto_command
+
 def len_command(command):
 	cmd, text = command.split()
 	length = len(text)
@@ -38,6 +40,8 @@ while True:
 
     if '平成' in command:
     	response = heisei_command(command)
+    if '干支' in command:
+        response = eto_command(command)
 
 
     if not response:
